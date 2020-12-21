@@ -11,3 +11,4 @@ def palindrom():
             break
 
 print(palindrom())
+#wrong
